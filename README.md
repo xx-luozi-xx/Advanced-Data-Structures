@@ -3,7 +3,7 @@
 
 &emsp;&emsp;There are some other advanced data structures which is application-specific such as segment tree, you can find them in my [algorithm question warehouse]().
 
-&emsp;&emsp;For more general templates, see [here](https://github. com/xx-luozi-xx/LZ_STL).
+&emsp;&emsp;For more general templates, see [here](https://github.com/xx-luozi-xx/LZ_STL).
 
 ## class list
 
