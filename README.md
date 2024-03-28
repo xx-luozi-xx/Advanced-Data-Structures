@@ -7,7 +7,20 @@
 
 
 ## class list
+* KdTree
+* MinLoserTree
+* SkipList
+* SparseMatrix
 
 ## Function list
 
+* void externalMergeSort(FILE* input, FILE* output);
+
 ## File list
+
+* LZ_kdTree.hpp
+* MinLoserTree.hpp
+* Skiplit.hpp
+* SparseMatrix.hpp
+* ExternalMergeSort.h
+* ExternalMergeSort.cpp
